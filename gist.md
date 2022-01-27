@@ -6,7 +6,7 @@ This Regex Tutorial will describe how to match emails using the expression /^([a
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+A sequence of characters that defines a search pattern is a regular expression. This is used to discover patterns within a string, find or replace characters within a string or used to validate input. The following tutortial will walk through the components of a regex and how it will apply to matching an email.
 
 ## Table of Contents
 
