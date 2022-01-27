@@ -1,6 +1,8 @@
-# Title (replace with your title)
+# Regex Tutorial - Match an Email
 
-Introductory paragraph (replace this with your text)
+This Regex Tutorial will describe how to match emails using the expression /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/. This will be helpful when you'd like to valide emails using technologies and apps such as Node (Inqurier) or MongoDB.
+
+
 
 ## Summary
 
