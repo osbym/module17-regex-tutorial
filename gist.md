@@ -30,6 +30,8 @@ The quantifiers used in this regex will include the `+` operator, that connects 
 
 ### Character Classes
 
+Character class used this expression is `\d` and it matches single characters that range from 0-9. It only matches a single digit such as "6", but not "66". 
+
 ### Grouping and Capturing
 
 ### Bracket Expressions
