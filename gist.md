@@ -22,6 +22,8 @@ A sequence of characters that defines a search pattern is a regular expression. 
 
 ### Anchors
 
+Anchors that will be used in this regex expression for matching an email are ^ , which will indicate the start of the string and $ to indicate the string's end. (m), or multiline will not be enabled, so the regex will ultimately conclude at $.
+
 ### Quantifiers
 
 ### Character Classes
